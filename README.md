@@ -35,11 +35,8 @@ This SQL project focuses on analyzing a Music Store database to uncover valuable
 
 ## 📷 Database Schema
 
-```md
-![Music Store Schema](MusicDatabaseSchema.png)
-
-```
-
+Schema- Music Store Database  
+![MusicDatabaseSchema](https://user-images.githubusercontent.com/112153548/213707717-bfc9f479-52d9-407b-99e1-e94db7ae10a3.png)
 ---
 
 ⭐ Beginner-friendly SQL project for practicing real-world data analysis.
