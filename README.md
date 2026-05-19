@@ -36,8 +36,8 @@ This SQL project focuses on analyzing a Music Store database to uncover valuable
 ## 📷 Database Schema
 
 ```md
-![Schema](![Uploading MusicDatabaseSchema.png…]()
-)
+![Music Store Schema](MusicDatabaseSchema.png)
+
 ```
 
 ---
